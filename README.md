@@ -5,10 +5,10 @@ I'm a passionate **Software Engineer** who loves turning complex problems into e
 ---
 
 ## 🚀 About Me
-- 💻 Software Engineer with a love for building impactful digital experiences
-- 🔍 Currently exploring: **[e.g. Cloud Computing, AI/ML, System Design]**
-- 📍 Based in: **[City or Country]**
-- 🎯 Motto: *"Build it right, build it once."*
+- 💻 Software Engineer with a love for solving problems!
+- 🔍 Currently exploring: **[Back_end,Front_End]**
+- 📍 Based in: **[Salinas,Puerto Rico]**
+- 🎯 Motto: *"If you fail doit again,again,again... until you make it"*
 
 ---
 
@@ -16,7 +16,6 @@ I'm a passionate **Software Engineer** who loves turning complex problems into e
 Here are some of the technologies I work with regularly:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -34,17 +33,17 @@ Here are some of the technologies I work with regularly:
 
 ## 🌟 Featured Projects
 Here are a few things I’ve worked on recently:
-- 🔧 **[Project Name]** – [short description] ([GitHub Repo](#))
-- 📦 **[Another Project]** – [short description] ([GitHub Repo](#))
+- 🔧 **[HBNB]** – [Deployed an HBNB app that functions with all the basic endpoints and utilities using Python, JavaScript, HTML, NodeJS, Flask, CSS, and Mermaid.] ([holbertonschool-hbnb
+](#))
+- 📦 **[Crypto Wallet]** – [In progess] 
 
-> ✨ Want to see more? Check out my [portfolio](https://yourportfolio.com) or pinned repositories!
+> ✨ Want to see more? Check out my Resume()!
 
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=dev.to)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bryan-jose-0215a0376/)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](bryan.2541@gmail.com)
 
 ---
 
