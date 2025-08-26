@@ -42,7 +42,7 @@ Here are a few things I’ve worked on recently:
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bryan-jose-0215a0376/)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](bryan.2541@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](bryan.jose2541@gmail.com)
 
 ---
 
