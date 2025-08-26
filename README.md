@@ -8,7 +8,7 @@ I'm a passionate **Software Engineer** who loves turning complex problems into e
 - 💻 Software Engineer with a love for solving problems!
 - 🔍 Currently exploring: **[Back_end,Front_End]**
 - 📍 Based in: **[Salinas,Puerto Rico]**
-- 🎯 Motto: *"If you fail doit again,again,again... until you make it"*
+- 🎯 Motto: *"If you fail do it again,again,again... until you make it"*
 
 ---
 
